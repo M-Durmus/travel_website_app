@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e52846af-4a83-4173-9d41-5bc4fe19ea96/deploy-status)](https://app.netlify.com/sites/travelmd/deploys)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
